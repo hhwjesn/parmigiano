@@ -1,29 +1,35 @@
 @font-face {
   font-family: "Parmigiano Piccolo Pro Regular";
   src: url(../fonts/ParmigianoPiccoloPro-Reg.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-RegIta.woff2);
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Black";
   src: url(../fonts/ParmigianoPiccoloPro-Blk.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-BlkIta.woff2);
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Thin";
   src: url(../fonts/ParmigianoPiccoloPro-Thin.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-ThinIta.woff2);
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Light";
   src: url(../fonts/ParmigianoPiccoloPro-Lt.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-LtIta.woff2);
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Medium";
   src: url(../fonts/ParmigianoPiccoloPro-Med.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-MedIta.woff2);
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Bold";
   src: url(../fonts/ParmigianoPiccoloPro-Bld.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-BldIta.woff2);
 }
