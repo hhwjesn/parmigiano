@@ -1,31 +1,3 @@
 @import "reset.css";
+@import "font.css";
 @import "layout.css";
-@font-face {
-  font-family: "Parmigiano Piccolo Pro";
-  src: url(../fonts/ParmigianoPiccoloPro-Reg.woff2);
-}
-
-@font-face {
-  font-family: "Parmigiano Piccolo Pro Black";
-  src: url(../fonts/ParmigianoPiccoloPro-Blk.woff2);
-}
-
-@font-face {
-  font-family: "Parmigiano Piccolo Pro Thin";
-  src: url(../fonts/ParmigianoPiccoloPro-Thin.woff2);
-}
-
-@font-face {
-  font-family: "Parmigiano Piccolo Pro Light";
-  src: url(../fonts/ParmigianoPiccoloPro-Lt.woff2);
-}
-
-@font-face {
-  font-family: "Parmigiano Piccolo Pro Medium";
-  src: url(../fonts/ParmigianoPiccoloPro-Med.woff2);
-}
-
-@font-face {
-  font-family: "Parmigiano Piccolo Pro Bold";
-  src: url(../fonts/ParmigianoPiccoloPro-Bld.woff2);
-}
