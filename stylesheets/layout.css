@@ -86,7 +86,8 @@ h4 {
 }
 
 .thirdSection {
-  background-image: url(../images/3.svg);
+  /* background-image: url(../images/3.svg); */
+  background-image: url(../images/33.svg);
   background-size: cover;
   height: 595px;
   display: block;
@@ -666,6 +667,7 @@ h4 {
   font-size: 24px;
   line-height: 120%;
   color: #002137;
+  font-variant: small-caps;
   text-align: center;
   position: relative;
   top: 145px;
