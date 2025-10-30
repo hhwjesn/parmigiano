@@ -1,11 +1,11 @@
 @import "reset.css";
 @import "layout.css";
 @font-face {
-  font-family: "Parmigiano Piccolo Pro Regular";
+  font-family: "Parmigiano Piccolo Pro";
   src: url(../fonts/ParmigianoPiccoloPro-Reg.woff2);
 }
 
-@font-face {
+/* @font-face {
   font-family: "Parmigiano Piccolo Pro Black";
   src: url(../fonts/ParmigianoPiccoloPro-Blk.woff2);
 }
@@ -28,4 +28,4 @@
 @font-face {
   font-family: "Parmigiano Piccolo Pro Bold";
   src: url(../fonts/ParmigianoPiccoloPro-Bld.woff2);
-}
+} */
