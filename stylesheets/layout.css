@@ -879,6 +879,19 @@ h4 {
   display: block;
 }
 
+.tenSection h4 {
+  font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
+  color: #002137;
+  /* padding: 227px 858px 22px 76px; */
+  position: relative;
+  top: 42px;
+  right: 913px;
+  bottom: 843px;
+  left: 76px;
+  width: 543px;
+}
+
 /* описание к строению буков :( */
 .des1 {
   font-family: "Parmigiano Piccolo Pro Regular";
