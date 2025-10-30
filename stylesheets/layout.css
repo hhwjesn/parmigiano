@@ -22,6 +22,7 @@ h1 {
 
 h4 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 62px;
   text-transform: uppercase;
 }
@@ -61,6 +62,7 @@ h4 {
 
 .secondSection h2 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 76px;
   color: #fff6e7;
   /* padding: 0 329.85px 0 328.33px; */
@@ -74,6 +76,7 @@ h4 {
 
 .secondSection p {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 120%;
   color: #fff6e7;
@@ -97,6 +100,7 @@ h4 {
 
 .thirdSection h5 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 13px;
   line-height: 120%;
   /* padding: 350px 630px 16.19px 620px; */
@@ -112,6 +116,7 @@ h4 {
 
 .thirdSection h3 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 54px;
   /* padding: 0px 630px 190.35px 620px; */
   transform: rotate(-16.06deg);
@@ -268,6 +273,7 @@ h4 {
 
 .fiveSection h6 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 120%;
   color: #002137;
@@ -283,6 +289,7 @@ h4 {
 /* цифры на календарике :(*/
 .sreda {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 30px;
   font-variant: small-caps;
   /* margin: 7px 49px 0 844px; */
@@ -296,6 +303,7 @@ h4 {
 
 .odin {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 48px;
   font-variant-numeric: oldstyle-nums;
   /* margin: 0 45px 0 0; */
@@ -309,6 +317,7 @@ h4 {
 
 .nol {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 46px;
   font-variant-numeric: slashed-zero;
   /* padding: 0 45px 0 0; */
@@ -322,6 +331,7 @@ h4 {
 
 .june {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 30px;
   font-variant: small-caps;
   /* padding: 13px 231px 0 0; */
@@ -336,6 +346,7 @@ h4 {
 /* цифры на часах :(*/
 .bigone {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -348,6 +359,7 @@ h4 {
 
 .bigtwo {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -360,6 +372,7 @@ h4 {
 
 .bigthree {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -372,6 +385,7 @@ h4 {
 
 .bigfour {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -384,6 +398,7 @@ h4 {
 
 .bigfive {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -396,6 +411,7 @@ h4 {
 
 .bigsix {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -408,6 +424,7 @@ h4 {
 
 .bigseven {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -420,6 +437,7 @@ h4 {
 
 .bigeight {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -432,6 +450,7 @@ h4 {
 
 .bignine {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -444,6 +463,7 @@ h4 {
 
 .bigten {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -456,6 +476,7 @@ h4 {
 
 .bigeleven {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -468,6 +489,7 @@ h4 {
 
 .bigtwelve {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 47px;
   position: relative;
@@ -481,6 +503,7 @@ h4 {
 /* цифры на телефоне :( :( :(*/
 .smallone {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 38px;
@@ -494,6 +517,7 @@ h4 {
 
 .smalltwo {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 38px;
@@ -507,6 +531,7 @@ h4 {
 
 .smallthree {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 32px;
   position: relative;
@@ -519,6 +544,7 @@ h4 {
 
 .smallfour {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 32px;
@@ -532,6 +558,7 @@ h4 {
 
 .smallfive {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 32px;
@@ -545,6 +572,7 @@ h4 {
 
 .smallsix {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 32px;
@@ -558,6 +586,7 @@ h4 {
 
 .smallseven {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 32px;
@@ -571,6 +600,7 @@ h4 {
 
 .smalleight {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-size: 32px;
   position: relative;
@@ -583,6 +613,7 @@ h4 {
 
 .smallnine {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-size: 30px;
@@ -596,6 +627,7 @@ h4 {
 
 .smalzero {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   font-variant: small-caps;
   font-variant-numeric: slashed-zero;
@@ -617,6 +649,7 @@ h4 {
 
 .sixSection h4 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   /* padding: 227px 858px 22px 76px; */
   position: relative;
@@ -629,6 +662,7 @@ h4 {
 
 .sixSection h6 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 120%;
   color: #002137;
@@ -644,6 +678,7 @@ h4 {
 /* ьуква на кулоне :(*/
 .M {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 161px;
   color: #002137;
   /* margin: 0 708.13px 101.07px 104px; */
@@ -666,6 +701,7 @@ h4 {
 
 .sevenSection p {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 120%;
   color: #002137;
@@ -698,6 +734,7 @@ h4 {
 
 .eightSection h6 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 120%;
   color: #002137;
@@ -712,6 +749,7 @@ h4 {
 /* большие лигатуры :( */
 .scob1 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 178px;
   color: #002137;
   font-variant-ligatures: none;
@@ -725,6 +763,7 @@ h4 {
 
 .scob2 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 126px;
   color: #002137;
   font-variant-ligatures: none;
@@ -739,6 +778,7 @@ h4 {
 /* стрелочки :(*/
 .arrow1 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 128px;
   color: #002137;
   transform: rotate(-135deg);
@@ -752,6 +792,7 @@ h4 {
 
 .arrow2 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 96px;
   color: #002137;
   transform: rotate(-135deg);
@@ -821,6 +862,7 @@ h4 {
 
 .nineSection h4 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   position: relative;
   top: 82px;
@@ -840,6 +882,7 @@ h4 {
 /* описание к строению буков :( */
 .des1 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 130%;
   color: #002137;
@@ -853,6 +896,7 @@ h4 {
 
 .des2 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 130%;
   color: #002137;
@@ -866,6 +910,7 @@ h4 {
 
 .des3 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 130%;
   color: #002137;
@@ -879,6 +924,7 @@ h4 {
 
 .des4 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   line-height: 130%;
   color: #002137;
@@ -899,6 +945,7 @@ h4 {
 
 .elevenSection h4 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   color: #002137;
   text-align: center;
   position: relative;
@@ -912,6 +959,7 @@ h4 {
 /* гифы слева :( */
 .glyphpercent {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 91px;
   color: #1c3753;
   transform: rotate(-54.57deg);
@@ -924,6 +972,7 @@ h4 {
 }
 .glyphand {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 91px;
   color: #1c3753;
   transform: rotate(-96.26deg);
@@ -938,6 +987,7 @@ h4 {
 /* глифы на тарелке :( */
 .glyphE {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 81px;
   color: #fff6e7;
   position: relative;
@@ -949,6 +999,7 @@ h4 {
 }
 .glyphA {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   transform: rotate(9.38deg);
@@ -961,6 +1012,7 @@ h4 {
 }
 .glyphd {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   transform: rotate(1.82deg);
@@ -973,6 +1025,7 @@ h4 {
 }
 .glyphomega {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   transform: rotate(-12.22deg);
@@ -985,6 +1038,7 @@ h4 {
 }
 .glyphCE {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   transform: rotate(-12.22deg);
@@ -997,6 +1051,7 @@ h4 {
 }
 .glyphlu {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   position: relative;
@@ -1008,6 +1063,7 @@ h4 {
 }
 .glyphf {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 82px;
   color: #fff6e7;
   position: relative;
@@ -1019,6 +1075,7 @@ h4 {
 }
 .glyphU {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 73px;
   color: #fff6e7;
   position: relative;
@@ -1030,6 +1087,7 @@ h4 {
 }
 .glyphparagraph {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   position: relative;
@@ -1043,6 +1101,7 @@ h4 {
 /* глиф на ложке:) */
 .glyphL {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 64px;
   color: #fff6e7;
   position: relative;
@@ -1056,6 +1115,7 @@ h4 {
 /* глифы на ноже :( */
 .glyphq {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(-18.13deg);
@@ -1068,6 +1128,7 @@ h4 {
 }
 .glyphR {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(22.21deg);
@@ -1080,6 +1141,7 @@ h4 {
 }
 .glyphdi {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(22.21deg);
@@ -1092,6 +1154,7 @@ h4 {
 }
 .glypho {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(22.21deg);
@@ -1104,6 +1167,7 @@ h4 {
 }
 .glyphi {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(22.21deg);
@@ -1116,6 +1180,7 @@ h4 {
 }
 .glyphj {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(22.21deg);
@@ -1128,6 +1193,7 @@ h4 {
 }
 .glyphlital {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 24px;
   color: #fff6e7;
   transform: rotate(-18.13deg);
@@ -1155,6 +1221,7 @@ h4 {
 
 .name {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 16px;
   line-height: 130%;
   color: #fff6e7;
@@ -1169,6 +1236,7 @@ h4 {
 
 .kurator1 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 16px;
   line-height: 120%;
   color: #fff6e7;
@@ -1183,6 +1251,7 @@ h4 {
 
 .kurator2 {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 16px;
   line-height: 120%;
   color: #fff6e7;
@@ -1197,6 +1266,7 @@ h4 {
 
 .anna {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 16px;
   line-height: 120%;
   color: #fff6e7;
@@ -1210,6 +1280,7 @@ h4 {
 }
 .kamila {
   font-family: "Parmigiano Piccolo Pro Regular";
+  font-style: normal;
   font-size: 16px;
   line-height: 120%;
   color: #fff6e7;
