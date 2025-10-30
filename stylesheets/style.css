@@ -3,4 +3,15 @@
 @font-face {
   font-family: "Parmigiano Piccolo Pro";
   src: url(../fonts/ParmigianoPiccoloPro-Reg.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-RegIta.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-Blk.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-BlkIta.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-Thin.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-ThinIta.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-Lt.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-LtIta.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-Med.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-MedIta.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-Blk.woff2);
+  src: url(../fonts/ParmigianoPiccoloPro-BldIta.woff2);
 }
